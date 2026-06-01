@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash-Bajeri-1817
 - 👀 I’m interested in JAVA, Data Science, Backend Developement
 - 🌱 I’m currently learning AI/ML and Fullstack JAVA
-- 💞️ I’m looking to collaborate on .
+
 
 <!---
 Akash-Bajeri-1817/Akash-Bajeri-1817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

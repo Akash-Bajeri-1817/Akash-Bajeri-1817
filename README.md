@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash-Bajeri-1817
 - 👀 I’m interested in JAVA, HIBERNATE,Spring,Spring Boot, Backend Developement
-- 🌱 I’m currently Fullstack JAVA
+- 🌱 I’m currently learning Fullstack JAVA
 
 
 <!---

@@ -32,8 +32,8 @@ Backend-focused Software Developer specializing in **Java, Spring Boot, and scal
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Bajeri-1817&show_icons=true&theme=radical" alt="Akash's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Bajeri-1817&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Akash-Bajeri-1817&show_icons=true&theme=radical](https://github.com/users/Akash-Bajeri-1817/achievements/yolo)" alt="Akash's GitHub stats" height="150" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Bajeri-1817&layout=compact&theme=radical](https://github.com/users/Akash-Bajeri-1817/achievements/pull-shark)" alt="Top Languages" height="150" />
 </p>
 
 ---

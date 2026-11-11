@@ -39,5 +39,5 @@ Backend-focused Software Developer specializing in **Java, Spring Boot, and scal
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/akash-bajeri-181703abcd/)
-- **Portfolio / Email:** [Your Contact Information](mailto:akashbajeri18@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/akash-bajeri-181703abcd/)
+- **Portfolio / Email:** (mailto:akashbajeri18@gmail.com)
